@@ -6,6 +6,8 @@ public class Day1Project {
 		System.out.println("hello");
 		System.out.println("my password code");
 		System.out.println("bye");
+		System.out.println("hj");
+		
 		
 	}
 
