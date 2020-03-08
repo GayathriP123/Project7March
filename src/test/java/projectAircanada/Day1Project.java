@@ -5,7 +5,7 @@ public class Day1Project {
 		System.out.println("my value");
 		System.out.println("hello");
 		System.out.println("ghj");
-		
+		System.out.println("rrt");
 	}
 
 }
