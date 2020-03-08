@@ -7,8 +7,8 @@ public class Day1Project {
 		System.out.println("my password code");
 		System.out.println("bye");
 		System.out.println("hj");
-		
-		
+		System.out.println("ghj");
+		System.out.println("rrt");
 	}
 
 }
